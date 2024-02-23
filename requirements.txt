@@ -1,0 +1,6 @@
+pyqt5-tools==5.15.9.3.3
+PyQt5==5.15.9
+PyMuPDF==1.23.7
+numpy==1.26.2
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
